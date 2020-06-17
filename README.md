@@ -1,5 +1,4 @@
 # Design Resources For Developers
-
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
@@ -59,6 +58,8 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
+| [IRA Design](https://iradesign.io/)                                                                     | An open-source gradient illustrations collection by creative tim.  |
+| [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -95,6 +96,7 @@
 | [Fonts Arena](https://fontsarena.com/) | Free curated fonts |
 | [Befonts](https://befonts.com/) | High quality fonts for free |
 | [Arabic fonts](https://arabicfonts.net/) | Arabic fonts for free |
+| [FontDrop](https://fontdrop.info) | Simple and easy way to view the contents of font files |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -110,6 +112,7 @@
 | [ColorCurves.app](https://colorcurves.app)| Color palette generator that uses curves to generate color palettes |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
+| [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
@@ -143,6 +146,8 @@
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 | [Paletton](https://paletton.com/)| Paletton.com is a designer color tool designed for creating color combinations that work together well.|
 | [Colorzilla](https://www.colorzilla.com/) | A powerful online photoShop-like CSS gradient editor |
+| [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
+| [CombineCOLORS](https://combinecolors.com/) | Color mixing tool |
 
 
 <div align="right">
@@ -277,7 +282,6 @@
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
 | [Nappy](https://www.nappy.co/)| A website offering Beautiful, high-res photos of black and brown people.|
 | [Generated Photos](https://generated.photos/)| Unique AI Generated model photos|
-
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -336,6 +340,12 @@
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
+| [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
+| [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
+| [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
+| [Stories by Freepik](https://stories.freepik.com/) | A collection of free and customizable illustrations for projects |
+| [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
+| [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -388,6 +398,8 @@
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
 | [Cruip](https://cruip.com/free-templates/)| Fully coded HTML templates to help you easily build your startup landing page without hassles. |
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
+| [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
+| [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -429,6 +441,9 @@
 | [Shorthand](https://shorthandcss.com/) | Shorthand is a free and open source css framework, that allows you to make unique and modern design without writing any css |
 | [XP.css](https://botoxparty.github.io/XP.css/) | XP.css is an extention of 98.css. A CSS library for building interfaces that look like old UIs. |
 | [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
+| [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
+| [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
+| [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -454,6 +469,7 @@
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
+| [Keyframes.app](https://keyframes.app/)| A graphical user interface for generating custom CSS keyframe animations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -473,7 +489,8 @@
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
-| [Tilt.Js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Tilt.js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Roughnotation](https://roughnotation.com/)| Rough Notation is a small JavaScript library to create and animate annotations on a web page |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -508,7 +525,7 @@
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
-
+| [Soft Components](https://soft-components-docs.web.app/)| A set of framework-agnostic web components based on neumorphic design. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -549,6 +566,7 @@
 | [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 | [React Spring](https://www.react-spring.io/)| Spring-physics based animation library for React applications. |
 | [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
+| [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -563,6 +581,7 @@
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
 | [Bootstrap Vue](https://bootstrap-vue.org/)| Use Bootstrap components with Vue |
 | [Buefy](https://buefy.org/)| Lightweight UI components based on Bulma |
+| [Semantic UI Vue](https://semantic-ui-vue.github.io)| Semantic UI Vue is the Vue integration for Semantic UI |
 | [Quasar](https://quasar.dev/)| High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions |
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
@@ -689,8 +708,8 @@
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
-| [Grid Malven](http://grid.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox  |
-| [Flex Malven](http://flexbox.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
@@ -704,6 +723,7 @@
 | [Kodeshot](https://www.kodeshot.net/) | Convert your source code into nice pictures for your articles, tweets, messages, posts... |
 | [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
+| [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -729,6 +749,7 @@
 | [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
 | [Darktable](https://www.darktable.org/)| Free & Open source photography workflow application and raw developer |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
+| [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easely! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -783,7 +804,7 @@
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
-| [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
+| [Promo Image Resizer](https://promo.com/tools/image-resizer/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
@@ -815,6 +836,9 @@
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
 | [Responsively](https://manojvivek.github.io/responsively-app/) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
+| [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
+| [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
