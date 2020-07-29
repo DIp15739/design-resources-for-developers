@@ -1,4 +1,4 @@
-# Design Resources For Developers
+# [Design Resources For Developers](https://dip15739.github.io/design-resources-for-developers/#/)
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
